@@ -1,5 +1,5 @@
 /*
-lkm.k * Program Title:	Monthly Loan Calculator
+ * Program Title:	Monthly Loan Calculator
  * Programmer:		Jay		
  * Date Created:	October 1st, 2009
  * Purpose:			The purpose of this this program is for the user to enter in the information of the loan amount, down payment, deductions, the months the loan is used for, and interest rate. These values will all get calculated to become the monthly payment.
